@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1461633959 source:c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\src\main.cpp
+	"AddressBook.h"
+	"Entry.h"
+	<iostream>
+
+1461440108 c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\include\main.h
+
+1461441539 c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\include\phoneaddress.h
+
+1461441628 source:c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\src\phoneaddress.cpp
+	"PhoneAddress.h"
+	<iostream>
+
+1461634030 source:c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\src\addressbook.cpp
+	"AddressBook.h"
+	<cstddef>
+	<iostream>
+
+1461632902 c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\include\addressbook.h
+	"Entry.h"
+
+1461500050 c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\include\entry.h
+
+1461510259 source:c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\src\entry.cpp
+	"Entry.h"
+	<iostream>
+
+1461592229 source:c:\users\edd\desktop\tema antonia\tema buna\phoneaddress\test.c
+
